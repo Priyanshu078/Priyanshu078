@@ -15,9 +15,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu078&" alt="priyanshu078" /></p>
 
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Priyanshu078">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Priyanshu078&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  &nbsp &nbsp &nbsp
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Priyanshu078&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
