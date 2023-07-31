@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Paliwal</h1>
-<h3 align="center">I am Flutter developer and a quick learner.</h3>
+<h3 align="center">I am a curious flutter developer and a quick learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu078&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu078" /> </p>
 
